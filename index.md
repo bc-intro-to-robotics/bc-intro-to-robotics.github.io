@@ -10,7 +10,7 @@ Before class:
 
 In class:
   - Take reading quiz, Q01.
-  - Complete [Lab L2: RoboLab](https://moodle.berea.edu/mod/assign/view.php?id=695444) Then Submit pdf in Moodle to completed document.
+  - Begin [Lab L2: RoboLab](https://moodle.berea.edu/mod/assign/view.php?id=695444). We will complete this in class next time.
 
 After class:
   - Complete and submit Assignment [A02: What are robots and what are they good for](https://docs.google.com/document/d/1lK9ENCZ1XHL-UnwEWkYKgag-gD_pKgMaWNNgvQ3c0hw/edit?usp=sharing)
