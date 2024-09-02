@@ -3,6 +3,18 @@
 
 ---
 
+## Day 4: Tuesday, September 3, 2024
+
+Before class:
+  - see last time
+
+In class:
+  - Complete [Lab L02: RoboLab](https://moodle.berea.edu/mod/assign/view.php?id=695444). Submit the completed pdf to Moodle.
+  - Complete [Lab L03: Simple Measurements](https://moodle.berea.edu/mod/assign/view.php?id=695445). Submit BOTH the pdf of the Google Doc and upload the program you created.
+
+After class:
+  - Read chapter 2 of the text in preparation for an in-class reading quiz
+
 ## Day 3: Thursday, August 29, 2024
 
 Before class:

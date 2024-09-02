@@ -3,12 +3,12 @@
 
 ---
 ## Final Project
-  - [Final Project Proposal](https://docs.google.com/document/d/1ZvI7t75bunEl0rpU5G3jA_qHNC6pXF438XPB7m2gKgA/edit?usp=sharing) which is due on April 9, 2020
-  - [Final Project Submission](http://cs.berea.edu/courses/csc126/bottasks/finalproject.html) which is due on April 16, 2020
+  - [Final Project Proposal](https://docs.google.com/document/d/1ZvI7t75bunEl0rpU5G3jA_qHNC6pXF438XPB7m2gKgA/edit?usp=sharing) which is due on April 9, 2024
+  - [Final Project Submission](http://cs.berea.edu/courses/csc126/bottasks/finalproject.html) which is due on April 16, 2024
 
 ---
 
-## Day 18: Thursday, March 12, 2020
+## Day 18: Tuesday, March 12, 2024
 ### Our last class day together
 
 Before class:
@@ -20,9 +20,9 @@ In class:
   - discuss [Final Project](http://cs.berea.edu/courses/csc126/bottasks/finalproject.html)
 
 After class:
-  - Begin [Final Project](http://cs.berea.edu/courses/csc126/bottasks/finalproject.html) which is due on April 16, 2020
+  - Begin [Final Project](http://cs.berea.edu/courses/csc126/bottasks/finalproject.html) which is due on April 16, 2024
 
-## Day 17: Tuesday, March 10, 2020
+## Day 17: Thursday, March 10, 2024
 
 Before class:
   - see last time
@@ -34,7 +34,7 @@ In class:
 After class:
   - Read chapters 11 and 12 of the text in preparation for a reading quiz
 
-## Day 16: Thursday, February 27, 2020
+## Day 16: Tuesday, February 27, 2024
 
 Before class:
   - see last time
@@ -45,7 +45,7 @@ In class:
 After class:
   - Read chapter 10 of the text in preparation for a reading quiz
 
-## Day 15: Tuesday, February 25, 2020
+## Day 15: Thursday, February 25, 2024
 
 Before class:
   - see last time
@@ -58,7 +58,7 @@ In class:
 After class:
   - Complete [A09: RCX and NXT Robot Videos](https://docs.google.com/document/d/1ERNz10HJF7VhpOcFxyU4FdGbKSF_4K8R-fY6IB8hLcI/edit?usp=sharing)
 
-## Day 14: Thursday, February 20, 2020
+## Day 14: Tuesday, February 20, 2024
 
 Before class:
   - see last time
@@ -71,7 +71,7 @@ After class:
   - Complete [A08: Interfaces](https://docs.google.com/document/d/1c5j-ElvCMbG4lYmYZE60RBeHKrKLrIZPwbi-SGAeBTI/edit?usp=sharing)
   - Read chapter 9 of the text in preparation for a reading quiz
 
-## Day 13: Tuesday, February 18, 2020
+## Day 13: Thursday, February 18, 2024
 
 Before class:
   - see last time
@@ -83,7 +83,7 @@ After class:
   - Read chapter 8 of the text in preparation for a reading quiz
 
 
-## Day 12: Thursday, February 13, 2020
+## Day 12: Tuesday, February 13, 2024
 
 Before class:
   - see last time
@@ -98,7 +98,7 @@ After class:
   - Use Peerwise to study for exam E1.
 
 
-## Day 11: Tuesday, February 11, 2020
+## Day 11: Thursday, February 11, 2024
 
 Before class:
   - see last time
@@ -111,7 +111,7 @@ In class:
 After class:
   - Read chapters 6-7 of the text in preparation for a reading quiz
 
-## Day 10: Thursday, February 6, 2020
+## Day 10: Tuesday, February 6, 2024
 
 Before class:
   - see last time
@@ -125,7 +125,7 @@ After class:
   - Complete and submit [A07: Safety](https://docs.google.com/document/d/1i0qYT3FKFUiAvor68ayO2-JL0RrhMhur4YO_KoR6GR4/edit?usp=sharing)
   - Read chapter 5 of the text in preparation for a reading quiz
 
-## Day 9: Tuesday, February 4, 2020
+## Day 9: Thursday, February 4, 2024
 
 Before class:
   - see last time
@@ -138,7 +138,7 @@ In class:
 After class:
   - Read chapter 4 of the text in preparation for a reading quiz
 
-## Day 8: Thursday, January 30, 2020
+## Day 8: Tuesday, September 30, 2024
 
 Before class:
   - see last time
@@ -152,7 +152,7 @@ After class:
   - Complete and submit [A06: User Centered Design](https://docs.google.com/document/d/1OP4-nl7LG5qfADJpwg7gTupvX7vdA7WdXsv0CzzQSlE/edit?usp=sharing)
   - Read chapter 3 of the text in preparation for a reading quiz
 
-## Day 7: Tuesday, January 28, 2020
+## Day 7: Thursday, September 28, 2024
 
 Before class:
   - see last time
@@ -165,7 +165,7 @@ In class:
 After class:
   - Complete and submit [A05: Why Teamwork?](https://docs.google.com/document/d/1GzQo7WP-pbm1AhYGvUsQLs8QnMZcPbz5VPDSH_NwB_M/edit?usp=sharing)
 
-## Day 6: Thursday, January 23, 2020
+## Day 6: Tuesday, September 23, 2024
 
 Before class:
   - see last time
@@ -178,7 +178,7 @@ In class:
 After class:
   - Complete and submit [A04: Could a Robot be a Killer?](https://docs.google.com/document/d/1RISkH2cAmOezles3avfxvmTIpgpR05frx1G6zUTr5Lg/edit?usp=sharing)
 
-## Day 5: Tuesday, January 21, 2020
+## Day 5: Thursday, September 21, 2024
 
 Before class:
   - see last time
@@ -191,7 +191,7 @@ In class:
 After class:
   - Complete [A03: Ethics and Bugs](https://docs.google.com/document/d/1K21am5Fimg2CKKJQniVgeMeXkIWekgEFz_-Qj_JBZds/edit?usp=sharing)
 
-## Day 4: Thursday, January 16, 2020
+## Day 4: Tuesday, September 16, 2024
 
 Before class:
   - see last time
@@ -203,7 +203,7 @@ In class:
 After class:
   - Read chapter 2 of the text in preparation for an in-class reading quiz
 
-## Day 3: Tuesday, January 14, 2020
+## Day 3: Thursday, September 14, 2024
 
 Before class:
   - see last time
@@ -215,7 +215,7 @@ In class:
 After class:
   - Complete and submit Assignment [A02: What are robots and what are they good for](https://docs.google.com/document/d/1lK9ENCZ1XHL-UnwEWkYKgag-gD_pKgMaWNNgvQ3c0hw/edit?usp=sharing)
 
-## Day 2: Thursday, January 9, 2020
+## Day 2: Tuesday, September 9, 2024
 
 Before class:
   - see last time
@@ -228,7 +228,7 @@ In class:
 Outside of class:
   - Read chapter 1 of The Robotics Primer in preparation for a reading quiz, Q01 from the textbook, *The Robotics Primer*.
 
-## Day 1: Tuesday, January 7, 2020
+## Day 1: Thursday, September 7, 2024
 
 In class:
   - Welcome
@@ -240,5 +240,5 @@ Outside of class:
   - Complete and submit [A01: Getting Started](https://docs.google.com/document/d/1xVaMxEPwAa3P94xZMPY6N2udxakEzN9q_Mxq3XGOBWo/edit?usp=sharing). You will need to come to our next class with this already completed.
 
 ---
-###### Copyright © 2020 | Licensed under a Creative Commons Attribution-Share Alike 3.0 United States License
+###### Copyright © 2024 | Licensed under a Creative Commons Attribution-Share Alike 3.0 United States License
 ###### Note: Many of these curricular materials are based upon work supported by the National Science Foundation under Grant No. 0511352.
