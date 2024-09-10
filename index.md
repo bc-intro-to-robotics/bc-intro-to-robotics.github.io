@@ -3,14 +3,41 @@
 
 ---
 
+## Day 6: Tuesday, September 10, 2024
+
+Before class:
+  - see last time
+
+In class:
+  - Discuss [Lab L03: Simple Measurements](https://moodle.berea.edu/mod/assign/view.php?id=695445)
+  - Complete [Lab L04: on Touch Sensors](https://moodle.berea.edu/mod/assign/view.php?id=695446)
+
+After class:
+  - Complete [A03: Ethics and Bugs](https://docs.google.com/document/d/1K21am5Fimg2CKKJQniVgeMeXkIWekgEFz_-Qj_JBZds/edit?usp=sharing)
+
+## Day 5: Thursday, September 5, 2024
+
+Before class:
+  - see last time
+
+In class:
+  - Any questions on the reading?
+  - Take reading quiz on chapter 2
+  - Complete [Lab L03: Simple Measurements](https://moodle.berea.edu/mod/assign/view.php?id=695445)
+
+
+After class:
+
 ## Day 4: Tuesday, September 3, 2024
 
 Before class:
   - see last time
 
 In class:
-  - Complete [Lab L02: RoboLab](https://moodle.berea.edu/mod/assign/view.php?id=695444). Submit the completed pdf to Moodle.
-  - Complete [Lab L03: Simple Measurements](https://moodle.berea.edu/mod/assign/view.php?id=695445). Submit BOTH the pdf of the Google Doc and upload the program you created.
+  - Things were different because of the internet outage. We will pick up next time where we left off.
+  - Hold on [Lab L02: RoboLab](https://moodle.berea.edu/mod/assign/view.php?id=695444). We will finish this and submit the completed pdf to Moodle next time.
+  - Begin [Lab L03: Simple Measurements](https://moodle.berea.edu/mod/assign/view.php?id=695445). We will finish this and submit both the pdf and the program pdf to Moodle next time.
+  - Introduction to other programming concepts as time permits.
 
 After class:
   - Read chapter 2 of the text in preparation for an in-class reading quiz
