@@ -3,6 +3,18 @@
 
 ---
 
+## Day 7: Thursday, September 12, 2024
+
+Before class:
+  - see last time
+
+  - Discuss [A03: Ethics and Bugs](https://docs.google.com/document/d/1K21am5Fimg2CKKJQniVgeMeXkIWekgEFz_-Qj_JBZds/edit?usp=sharing)
+  - Discuss and complete [Lab L05: Containers](https://moodle.berea.edu/mod/assign/view.php?id=695449)
+
+After class:
+
+  - Read chapter 3 of the text in preparation for a reading quiz
+
 ## Day 6: Tuesday, September 10, 2024
 
 Before class:
@@ -10,6 +22,7 @@ Before class:
 
 In class:
   - Discuss [Lab L03: Simple Measurements](https://moodle.berea.edu/mod/assign/view.php?id=695445)
+  - Change teams
   - Complete [Lab L04: on Touch Sensors](https://moodle.berea.edu/mod/assign/view.php?id=695446)
 
 After class:
