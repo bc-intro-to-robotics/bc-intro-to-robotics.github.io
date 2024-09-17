@@ -3,6 +3,18 @@
 
 ---
 
+## Day 8: Tuesday, September 17, 2024
+
+Before class:
+  - see last time
+
+In class:
+  - Quiz on chapter 3 reading
+  - Complete [Lab L06: on Light Sensors](https://docs.google.com/document/d/1h0h_03GNZyJ_ql3zjpODwNdP7mqVXTKLIHtF8PRZ_zw/edit?usp=sharing)
+
+After class:
+  - Compelte [A04: Could a Robot be a Killer?](https://docs.google.com/document/d/1RISkH2cAmOezles3avfxvmTIpgpR05frx1G6zUTr5Lg/edit?usp=sharing)
+
 ## Day 7: Thursday, September 12, 2024
 
 Before class:
