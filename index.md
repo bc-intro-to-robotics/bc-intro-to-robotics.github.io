@@ -3,6 +3,20 @@
 
 ---
 
+## Day 9: Thursday, September 19, 2024
+
+Before class:
+  - see last time
+
+In class:
+
+- Discuss sensors and [A04: Could a Robot be a Killer?](https://docs.google.com/document/d/1RISkH2cAmOezles3avfxvmTIpgpR05frx1G6zUTr5Lg/edit?usp=sharing)
+- Complete Complete [Lab L07: on Following a Track](https://docs.google.com/document/d/1UKFOVaJSqMKZKqmmDroAfTvPANGkoqGVVBW1N7uE_SU/edit?usp=sharing)
+
+After class:
+
+- Read Chapter 4 in preparation for a reading quiz
+
 ## Day 8: Tuesday, September 17, 2024
 
 Before class:
@@ -13,7 +27,7 @@ In class:
   - Complete [Lab L06: on Light Sensors](https://docs.google.com/document/d/1h0h_03GNZyJ_ql3zjpODwNdP7mqVXTKLIHtF8PRZ_zw/edit?usp=sharing)
 
 After class:
-  - Compelte [A04: Could a Robot be a Killer?](https://docs.google.com/document/d/1RISkH2cAmOezles3avfxvmTIpgpR05frx1G6zUTr5Lg/edit?usp=sharing)
+  - Complete [A04: Could a Robot be a Killer?](https://docs.google.com/document/d/1RISkH2cAmOezles3avfxvmTIpgpR05frx1G6zUTr5Lg/edit?usp=sharing)
 
 ## Day 7: Thursday, September 12, 2024
 
