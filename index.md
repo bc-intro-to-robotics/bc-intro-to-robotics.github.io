@@ -3,6 +3,21 @@
 
 ---
 
+## Day 10: Tuesday, September 24, 2024
+
+Before class:
+  - see last time
+
+In class:
+
+- Quiz on chapter 4 reading
+- Discuss [Lab L07: on Following a Track](https://docs.google.com/document/d/1UKFOVaJSqMKZKqmmDroAfTvPANGkoqGVVBW1N7uE_SU/edit?usp=sharing)
+  - Complete [Lab L08: Conditionals](https://docs.google.com/document/d/1xOvUQYb78LqJ-dqR63I_Hxz6Coy4TlnlXg6p1RsKCOw/edit?usp=sharing)
+
+After class:
+
+- Complete [A05: Why Teamwork?](https://docs.google.com/document/d/1GzQo7WP-pbm1AhYGvUsQLs8QnMZcPbz5VPDSH_NwB_M/edit?usp=sharing)
+
 ## Day 9: Thursday, September 19, 2024
 
 Before class:
