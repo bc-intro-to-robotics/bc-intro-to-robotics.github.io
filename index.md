@@ -12,7 +12,7 @@ In class:
 
 - Quiz on chapter 4 reading
 - Discuss [Lab L07: on Following a Track](https://docs.google.com/document/d/1UKFOVaJSqMKZKqmmDroAfTvPANGkoqGVVBW1N7uE_SU/edit?usp=sharing)
-  - Complete [Lab L08: Conditionals](https://docs.google.com/document/d/1xOvUQYb78LqJ-dqR63I_Hxz6Coy4TlnlXg6p1RsKCOw/edit?usp=sharing)
+- Complete [Lab L08: Conditionals](https://docs.google.com/document/d/1xOvUQYb78LqJ-dqR63I_Hxz6Coy4TlnlXg6p1RsKCOw/edit?usp=sharing)
 
 After class:
 
