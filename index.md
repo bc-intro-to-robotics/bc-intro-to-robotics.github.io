@@ -3,6 +3,20 @@
 
 ---
 
+## Day 11: Thursday, September 26, 2024
+
+Before class:
+  - see last time
+
+In class:
+  - Discuss [A05: Why Teamwork?](https://docs.google.com/document/d/1GzQo7WP-pbm1AhYGvUsQLs8QnMZcPbz5VPDSH_NwB_M/edit?usp=sharing)
+  - Discuss [Lab L08: Conditionals](https://docs.google.com/document/d/1xOvUQYb78LqJ-dqR63I_Hxz6Coy4TlnlXg6p1RsKCOw/edit?usp=sharing)
+  - Begin [Lab L09: Guessing Game](https://docs.google.com/document/d/1XCQwmxZJftuya5cWHrlFTAFplRZokN-nzYjLB9jX9ZQ/edit?usp=sharing)
+
+After class:
+  - Complete and submit [A06: User Centered Design](https://docs.google.com/document/d/1OP4-nl7LG5qfADJpwg7gTupvX7vdA7WdXsv0CzzQSlE/edit?usp=sharing)
+  - Read chapter 5 of the text in preparation for a reading quiz
+
 ## Day 10: Tuesday, September 24, 2024
 
 Before class:

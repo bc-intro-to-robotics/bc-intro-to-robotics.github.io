@@ -119,7 +119,7 @@ Before class:
 In class:
   - Take quiz
   - Discuss [Lab L08: Conditionals](https://docs.google.com/document/d/1xOvUQYb78LqJ-dqR63I_Hxz6Coy4TlnlXg6p1RsKCOw/edit?usp=sharing)
-  - Begin [Lab L09: Guessing Game](https://docs.google.com/document/d/1XCQwmxZJftuya5cWHrlFTAFplRZokN-nzYjLB9jX9ZQ/edit?usp=sharing)
+  - Begin [Lab L09: Guessing Game](https://moodle.berea.edu/mod/assign/view.php?id=695451)
 
 After class:
   - Complete and submit [A07: Safety](https://docs.google.com/document/d/1i0qYT3FKFUiAvor68ayO2-JL0RrhMhur4YO_KoR6GR4/edit?usp=sharing)
