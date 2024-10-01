@@ -3,6 +3,21 @@
 
 ---
 
+## Day 12: Tuesday, October 1, 2024
+
+Before class:
+  - see last time
+
+In class:
+
+- Quiz on chapter 5 reading
+- Discuss and Complete [Lab L09: Guessing Game](https://docs.google.com/document/d/1XCQwmxZJftuya5cWHrlFTAFplRZokN-nzYjLB9jX9ZQ/edit?usp=sharing)
+- Discuss upcoming Exam E1 which will be on Thursday, October 10, 2024
+
+After class:
+
+- TBA
+
 ## Day 11: Thursday, September 26, 2024
 
 Before class:
