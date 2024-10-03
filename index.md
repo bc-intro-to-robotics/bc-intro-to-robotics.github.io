@@ -3,6 +3,20 @@
 
 ---
 
+## Day 13: Thursday, October 3, 2024
+
+Before class:
+  - see last time
+
+In class:
+
+- Discuss midterm exam which will be on Thursday, October 10, 2024 and which will have a paper part and a programming part. In the programming part, you will be allowed to use your old programs, but you will not be allowed to use the internet. Please make sure you have all your programs saved in the VM.
+- Complete [TR1: Peerwise Review for E1](https://docs.google.com/document/d/1QvizueIjqBLIVECYFNIrwjwvTVJp_cG2qbiKrFsE1DI/edit#heading=h.c1x99npetnfu). Be sure to submit by the deadline. It WILL NOT be accepted late.
+
+After class:
+
+- Study for the midterm exam and make sure you have all your programs saved in the VM.
+
 ## Day 12: Tuesday, October 1, 2024
 
 Before class:
@@ -11,12 +25,12 @@ Before class:
 In class:
 
 - Quiz on chapter 5 reading
-- Discuss and Complete [Lab L09: Guessing Game](https://docs.google.com/document/d/1XCQwmxZJftuya5cWHrlFTAFplRZokN-nzYjLB9jX9ZQ/edit?usp=sharing)
+- Discuss and try to complete [Lab L09: Guessing Game](https://docs.google.com/document/d/1XCQwmxZJftuya5cWHrlFTAFplRZokN-nzYjLB9jX9ZQ/edit?usp=sharing)
 - Discuss upcoming Exam E1 which will be on Thursday, October 10, 2024
 
 After class:
 
-- TBA
+- Complete [Lab L09: Guessing Game](https://docs.google.com/document/d/1XCQwmxZJftuya5cWHrlFTAFplRZokN-nzYjLB9jX9ZQ/edit?usp=sharing) if you have not done so in class.
 
 ## Day 11: Thursday, September 26, 2024
 
