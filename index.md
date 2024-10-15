@@ -3,6 +3,30 @@
 
 ---
 
+## Day 15: Tuesday, October 15, 2024
+
+Before class:
+  - see last time
+
+In class:
+
+- Welcome Janis Ian who is visiting our class today
+- Complete [Lab L10: Input and Looping](https://docs.google.com/document/d/1FQ5Loc3eaoNkE0PkZHkrVUnJ9XmLkkN1l1Qoj3pIRRk/edit?usp=sharing)
+
+After class:
+
+- Read chapters 6-7 of the text in preparation for a reading quiz
+
+## Day 14: Thursday, October 10, 2024
+
+In class:
+
+- Exam E1
+
+After class:
+
+- No homework - enjoy the weekend!
+
 ## Day 13: Thursday, October 3, 2024
 
 Before class:
