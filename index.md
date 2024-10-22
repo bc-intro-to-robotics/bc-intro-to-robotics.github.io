@@ -3,6 +3,21 @@
 
 ---
 
+## Day 17: Tuesday, October 22, 2024
+
+Before class:
+  - see last time
+
+In class:
+
+  - Take quiz
+  - Discuss exam E1
+  - Complete [L11: Zombie Clone Attack!](https://docs.google.com/document/d/1TXNSkHTTIjNa0G0i7cuULWG2Z-mvTNjTE-5TZNQsdhc/edit?usp=sharing)
+
+After class:
+
+  - Read chapter 8 of the text in preparation for a reading quiz
+
 ## Day 16: Thursday, October 17, 2024
 
 Before class:
