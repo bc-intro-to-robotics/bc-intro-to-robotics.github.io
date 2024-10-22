@@ -16,7 +16,7 @@ In class:
 
 After class:
 
-  - Read chapter 8 of the text in preparation for a reading quiz
+  - Read chapter 9 of the text in preparation for a reading quiz
 
 ## Day 16: Thursday, October 17, 2024
 
