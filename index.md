@@ -3,6 +3,19 @@
 
 ---
 
+## Day 18: Thursday, October 24, 2024
+
+Before class:
+  - see last time
+
+In class:
+  - Take quiz
+  - Begin [L12: Kill Switch](https://docs.google.com/document/d/1pUDh3Dzqyz_Lz6SP7P5bEDYF0ryDtmzNhrCtb5F9dlk/edit?usp=sharing)
+
+After class:
+
+  - Complete and submit [A07: Safety](https://docs.google.com/document/d/1i0qYT3FKFUiAvor68ayO2-JL0RrhMhur4YO_KoR6GR4/edit?usp=sharing)
+
 ## Day 17: Tuesday, October 22, 2024
 
 Before class:
