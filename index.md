@@ -3,6 +3,18 @@
 
 ---
 
+## Day 20: Thursday, October 31, 2024
+
+Before class:
+  - see last time
+
+In class:
+
+  - Complete [L14: Wheel Encoders](https://docs.google.com/document/d/1qqHgok4N3YRgsdGm99fDsL61tFaGPrtyLAv8-gA3tEk/edit?usp=sharing)
+
+  After class:
+  - Read chapter 10 of the text in preparation for a reading quiz
+
 ## Day 19: Tuesday, October 29, 2024
 
 Before class:
