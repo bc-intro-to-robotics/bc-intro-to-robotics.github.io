@@ -3,6 +3,18 @@
 
 ---
 
+## Day 21: Tuesday, November 5, 2024
+
+Before class:
+  - see last time
+
+In class:
+
+  - Complete [L15: Shybot](https://docs.google.com/document/d/11YpGrfZuFBwemQ3Un4DqXBre9lukJqOZQK19jxjWAno/edit?tab=t.0)
+
+  After class:
+  - Complete [A09: The Benefits of STEM Outreach](https://docs.google.com/document/d/1WaFJ01JIkyOiU1Sb1fj45oRKOE61S-k1cQByohAoZ-Q/edit?usp=sharing)
+
 ## Day 20: Thursday, October 31, 2024
 
 Before class:
