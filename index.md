@@ -10,6 +10,7 @@ Before class:
 
 In class:
 
+  - Take quiz on reading
   - Complete [L15: Shybot](https://docs.google.com/document/d/11YpGrfZuFBwemQ3Un4DqXBre9lukJqOZQK19jxjWAno/edit?tab=t.0)
 
   After class:
