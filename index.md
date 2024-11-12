@@ -3,6 +3,23 @@
 
 ---
 
+## Day 23: Tuesday, November 12, 2024
+
+Before class:
+  - see last time
+
+In class:
+
+  - Discuss second exam date - Thursday, November 21, 2024
+  - Begin [L17: Planning for Outreach](https://docs.google.com/document/d/1EXZXaUwX4i18j7nUAZMu2R01P_VUpBoYkQh4EQrdDJU/edit?usp=sharing)
+
+  After class:
+  - Complete [A11: The Importance of Childsplay](https://docs.google.com/document/d/1q3zupfeA7SCdcj6ko282dwXE35qF2GoFK9__c4BCF84/edit?usp=sharing)
+
+## Announcement
+
+- Our dates and times have been confirmed at the Berea branch of the Madison County Public Library. We will be going there Saturday, December 7 and Sunday, December 8. The time is 1-2, and you are required to come early and stay to help me to load my car with robots, so your actual time there will be more like 12:55-2:05.  Students who are late will not receive full credit, so if you know you have a problem with tardiness, I advise you to make an especial effort to be early. You are only required to come to one of these sessions, and ideally 2 members from each team of four will come Saturday and 2 members will come on Sunday. We have one team of 3 with one member having a conflict with Saturday, so members of that team can all choose to come Sunday or can have 1-2 Saturday and 1-2 Sunday.
+
 ## Day 22: Thursday, November 7, 2024
 
 Before class:
@@ -11,6 +28,7 @@ Before class:
 In class:
 
   - Complete [L15: Shybot](https://docs.google.com/document/d/11YpGrfZuFBwemQ3Un4DqXBre9lukJqOZQK19jxjWAno/edit?tab=t.0)
+  - Complete [L16: Revisiting Past Labs](https://docs.google.com/document/d/12Wb2RTjLlfkMbUsFkGuc5k1S3rkTQLFVnFCRE2mj5lk/edit?usp=sharing)
 
   After class:
   - Complete [A10: RCX and NXT Videos](https://docs.google.com/document/d/1ERNz10HJF7VhpOcFxyU4FdGbKSF_4K8R-fY6IB8hLcI/edit?usp=sharing)
