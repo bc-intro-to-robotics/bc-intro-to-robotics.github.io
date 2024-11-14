@@ -7,6 +7,20 @@
 
 - Our dates and times have been confirmed at the Berea branch of the Madison County Public Library. We will be going there Saturday, December 7 and Sunday, December 8. The time is 1-2, and you are required to come early and stay to help me to load my car with robots, so your actual time there will be more like 12:55-2:05.  Students who are late will not receive full credit, so if you know you have a problem with tardiness, I advise you to make an especial effort to be early. You are only required to come to one of these sessions, and ideally 2 members from each team of four will come Saturday and 2 members will come on Sunday. We have one team of 3 with one member having a conflict with Saturday, so members of that team can all choose to come Sunday or can have 1-2 Saturday and 1-2 Sunday.
 
+## Day 24: Thursday, November 14, 2024
+
+Before class:
+  - see last time
+
+In class:
+
+  - Reminder on second exam date - Thursday, November 21, 2024
+  - Complete [TR2: Peerwise Review for Exam E2](https://docs.google.com/document/d/1T1W-7T-IfP6A5Gq9YRdKHh_3CK9Ez6tDkDCNMJMhpoQ/edit?usp=sharing)
+
+ After class:
+
+  - Complete [TR2: Peerwise Review for Exam E2](https://docs.google.com/document/d/1T1W-7T-IfP6A5Gq9YRdKHh_3CK9Ez6tDkDCNMJMhpoQ/edit?usp=sharing) and add questions to Peerwise by teh deadline.
+  - Begin preparing and studying for the second exam
 
 ## Day 23: Tuesday, November 12, 2024
 
