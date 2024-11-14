@@ -19,8 +19,8 @@ In class:
 
  After class:
 
-  - Complete [TR2: Peerwise Review for Exam E2](https://docs.google.com/document/d/1T1W-7T-IfP6A5Gq9YRdKHh_3CK9Ez6tDkDCNMJMhpoQ/edit?usp=sharing) and add questions to Peerwise by teh deadline.
-  - Begin preparing and studying for the second exam
+  - Complete [TR2: Peerwise Review for Exam E2](https://docs.google.com/document/d/1T1W-7T-IfP6A5Gq9YRdKHh_3CK9Ez6tDkDCNMJMhpoQ/edit?usp=sharing) and add questions to Peerwise by the deadline.
+  - Begin preparing for and studying for the second exam
 
 ## Day 23: Tuesday, November 12, 2024
 
