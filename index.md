@@ -21,7 +21,7 @@ After class:
 
   - Prepare for and study for the second exam
   - Complete [A12: Use Peerwise to Study](https://peerwise.cs.auckland.ac.nz/course/main.php?course_id=27767) using 27767. For Thursday, November 21, 2024.
-  - Complete [A13: The Importance of Childsplay](https://docs.google.com/document/d/1q3zupfeA7SCdcj6ko282dwXE35qF2GoFK9__c4BCF84/edit?usp=sharing). For Tuesday, November 26, 2024.
+  - Complete [A13: How Robots Can Trick Us into Loving Them](https://docs.google.com/document/d/1q3zupfeA7SCdcj6ko282dwXE35qF2GoFK9__c4BCF84/edit?usp=sharing). For Tuesday, November 26, 2024.
 
 # Day 24: Thursday, November 14, 2024
 
