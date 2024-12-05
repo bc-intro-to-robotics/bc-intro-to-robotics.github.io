@@ -15,10 +15,12 @@ Before class:
 In class:
 
   - Work on robotic outreach robots and programming
+  - Complete [L19-Finalizing Library Outreach](https://docs.google.com/document/d/1eWE2Xa3QySFT4YuvZIBwAvGUTlzAo1TDEO9PhBxfs1c/edit?usp=sharing)
+  - Pack Dr. Jan's car
 
 After class:
   - Post two posters
-  - Attend your outreach on Saturday or Sunday at the [Madison County Public Library](https://duckduckgo.com/?q=madison+county+public+library+berea&atb=v391-1&iaxm=directions&end=what%3AMadison%2520County%2520Public%2520Library%2Cwhere%3A319%2520Chestnut%2520St%252C%2520Berea%252C%2520KY%252040403&transport=automobile). Be sure to arrive by 12:55 pm!
+  - Attend your outreach on Saturday or Sunday at the [Madison County Public Library](https://maps.app.goo.gl/pDGXJzxTYNB9UcCs6). Be sure to arrive by 12:55 pm!
   - Attend our final exam period, Wednesday, 11:45 am.
 
 ## Day 29: Thursday, December 5, 2024
@@ -29,8 +31,6 @@ Before class:
 In class:
 
   - Work on robotic outreach robots and programming
-  - Complete [L19-Finalizing Library Outreach](https://docs.google.com/document/d/1eWE2Xa3QySFT4YuvZIBwAvGUTlzAo1TDEO9PhBxfs1c/edit?usp=sharing)
-  - Pack Dr. Jan's car
 
 After class:
   - None!
