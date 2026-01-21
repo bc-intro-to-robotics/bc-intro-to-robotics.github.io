@@ -3,6 +3,16 @@
 
 ---
 
+## Day 2: Wednesday, January 21, 2026
+
+In class:
+  - Discussion of readings and course: content, text, syllabus, flow, etc
+  - The TA and I will set-up the programming environment on your laptop while you do the lab.
+  - Team work on [Lab L01: Rubberband Power](https://docs.google.com/document/d/1T8iA5eMNIcylina8qQauznHSp6EAzdfvkSxRoui5uy4/edit?usp=sharing). Then Submit pdf in Moodle to completed document.
+
+Outside of class:
+  - Read chapter 1 of The Robotics Primer in preparation for a reading quiz, Q01 from the textbook, *The Robotics Primer*.
+
 ## Day 1: Wednesday, January 14, 2026
 
 In class:
