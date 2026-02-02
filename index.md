@@ -3,6 +3,16 @@
 
 ---
 
+## Day 4: Monday, February 2, 2026
+
+In class:
+  - Quiz on chapter 1.
+  - Let's learn how to submit the code we wrote for [Lab L02: RoboLab](https://moodle.berea.edu/mod/assign/view.php?id=695444). 
+  - Work to complete [Lab L03: Simple Measurements](https://moodle.berea.edu/mod/assign/view.php?id=695445).
+
+After class:
+  - Read chapter 2 of the text in preparation for an in-class reading quiz
+
 ## Day 3: Wednesday, January 28, 2026
 
 In class:
