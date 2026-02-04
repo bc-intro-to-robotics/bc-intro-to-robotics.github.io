@@ -3,6 +3,17 @@
 
 ---
 
+## Day 5: Monday, February 4, 2026
+
+In class:
+  - Quiz on chapter 2.
+  - Discuss [Lab L03: Simple Measurements](https://moodle.berea.edu/mod/assign/view.php?id=695445)
+  - Change teams
+  - Complete [Lab L04: on Touch Sensors](https://moodle.berea.edu/mod/assign/view.php?id=695446)
+
+After class:
+  - Complete [A03: Ethics and Bugs](https://docs.google.com/document/d/1K21am5Fimg2CKKJQniVgeMeXkIWekgEFz_-Qj_JBZds/edit?usp=sharing)
+
 ## Day 4: Monday, February 2, 2026
 
 In class:
