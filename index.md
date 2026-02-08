@@ -3,6 +3,16 @@
 
 ---
 
+## Day 6: Monday, February 9, 2026
+
+In class:
+  - Discuss [A03: Ethics and Bugs](https://docs.google.com/document/d/1K21am5Fimg2CKKJQniVgeMeXkIWekgEFz_-Qj_JBZds/edit?usp=sharing)
+  - Discuss and complete [Lab L05: Containers](https://moodle.berea.edu/mod/assign/view.php?id=695449)
+
+After class:
+
+  - Read chapter 3 of the text in preparation for a reading quiz
+
 ## Day 5: Monday, February 4, 2026
 
 In class:
