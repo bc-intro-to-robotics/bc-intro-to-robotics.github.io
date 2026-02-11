@@ -3,6 +3,15 @@
 
 ---
 
+## Day 7: Wednesday, February 11, 2026
+
+In class:
+  - Quiz on chapter 3 reading
+  - Complete [Lab L06: on Light Sensors](https://docs.google.com/document/d/1h0h_03GNZyJ_ql3zjpODwNdP7mqVXTKLIHtF8PRZ_zw/edit?usp=sharing)
+
+After class:
+  - Complete [A04: Could a Robot be a Killer?](https://docs.google.com/document/d/1RISkH2cAmOezles3avfxvmTIpgpR05frx1G6zUTr5Lg/edit?usp=sharing)
+
 ## Day 6: Monday, February 9, 2026
 
 In class:
