@@ -5,6 +5,17 @@
 
 ### Announcement: The first exam will be on Wednesday, February 25, 2026. It will cover all material from the course up to that point, including readings, labs, and assignments.
 
+## Day 9: Wednesday, February 18, 2026
+
+In class:
+
+- Discuss [A05: Why Teamwork?](https://docs.google.com/document/d/1GzQo7WP-pbm1AhYGvUsQLs8QnMZcPbz5VPDSH_NwB_M/edit?usp=sharing)
+- Complete [Lab L08: Conditionals](https://docs.google.com/document/d/1xOvUQYb78LqJ-dqR63I_Hxz6Coy4TlnlXg6p1RsKCOw/edit?usp=sharing)
+
+After class:
+
+- Read Chapter 4 in preparation for a reading quiz
+
 ## Day 8: Monday, February 16, 2026
 
 In class:
