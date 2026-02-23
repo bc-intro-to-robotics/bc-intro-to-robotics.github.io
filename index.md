@@ -5,6 +5,15 @@
 
 ### Announcement: The first exam will be on Wednesday, February 25, 2026. It will cover all material from the course up to that point, including readings, labs, and assignments.
 
+## Day 10: Thursday, September 26, 2024
+
+In class:
+  - quiz on chapter 4 reading
+  - Complete [Lab L09: Guessing Game](https://docs.google.com/document/d/1XCQwmxZJftuya5cWHrlFTAFplRZokN-nzYjLB9jX9ZQ/edit?usp=sharing)
+
+After class:
+  - Study for the upcoming exam which will take place in class on Wednesday, February 25, 2026. It will cover all material from the course up to that point, including readings, labs, and assignments. Note that there will be a paper part and a programming part. During the programming part, you will be allowed to use the code you have written, but you will not be allowed to use the internet or a browser, so you will need to have the programs in the VM on your laptop.
+
 ## Day 9: Wednesday, February 18, 2026
 
 In class:
