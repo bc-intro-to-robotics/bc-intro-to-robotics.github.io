@@ -3,9 +3,18 @@
 
 ---
 
-### Announcement: The first exam will be on Wednesday, February 25, 2026. It will cover all material from the course up to that point, including readings, labs, and assignments.
+## Day 11: Wednesday, February 25, 2026
 
-## Day 10: Thursday, September 26, 2024
+In class:
+  - Exam E1
+  - The exam will cover all material from the course up to this point, including readings, labs, and assignments.
+
+After class:
+  - Complete and submit [A06: User Centered Design](https://docs.google.com/document/d/1OP4-nl7LG5qfADJpwg7gTupvX7vdA7WdXsv0CzzQSlE/edit?usp=sharing)
+  - Read chapter 5 of the text in preparation for a reading quiz
+  - Enjoy Spring Break!
+
+## Day 10: Monday, February 24, 2026
 
 In class:
   - quiz on chapter 4 reading
