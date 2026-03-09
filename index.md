@@ -3,6 +3,16 @@
 
 ---
 
+## Day 12: Monday, March 9, 2026
+
+In class:
+  - Quiz on chapter 5 reading
+  - Discuss [A06: User Centered Design](https://docs.google.com/document/d/1OP4-nl7LG5qfADJpwg7gTupvX7vdA7WdXsv0CzzQSlE/edit?usp=sharing)
+- Complete [Lab L10: Input and Looping](https://docs.google.com/document/d/1FQ5Loc3eaoNkE0PkZHkrVUnJ9XmLkkN1l1Qoj3pIRRk/edit?usp=sharing)
+
+After class:
+- Read chapters 6-7 of the text in preparation for a reading quiz
+
 ## Day 11: Wednesday, February 25, 2026
 
 In class:
