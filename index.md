@@ -3,6 +3,17 @@
 
 ---
 
+## Day 13: Wednesday, March 11, 2026
+
+In class:
+
+  - Take quiz on chapter 6-7 reading
+  - Begin [L11: Zombie Clone Attack!](https://docs.google.com/document/d/1TXNSkHTTIjNa0G0i7cuULWG2Z-mvTNjTE-5TZNQsdhc/edit?usp=sharing)
+
+After class:
+
+  - Read chapter 8 of the text in preparation for a reading quiz
+
 ## Day 12: Monday, March 9, 2026
 
 In class:
