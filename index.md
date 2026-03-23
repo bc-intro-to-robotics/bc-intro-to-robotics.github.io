@@ -3,7 +3,7 @@
 
 ---
 
-## Day 19: Monday, March 23, 2026
+## Day 16: Monday, March 23, 2026
 
 In class:
 
@@ -12,7 +12,7 @@ In class:
 
 After class:
 
-  - ?
+ - Read chapters 11 and 12 of the text in preparation for a reading quiz
 
 ## Day 15: Wednesday, March 18, 2026
 
