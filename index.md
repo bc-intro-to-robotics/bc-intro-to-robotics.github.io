@@ -3,6 +3,17 @@
 
 ---
 
+## Day 19: Monday, March 23, 2026
+
+In class:
+
+  - Discuss [L12: Kill Switch](https://docs.google.com/document/d/1pUDh3Dzqyz_Lz6SP7P5bEDYF0ryDtmzNhrCtb5F9dlk/edit?usp=sharing)
+  - Complete [L13: Detecting Sound](https://docs.google.com/document/d/1SncwwDgSelkEPExowYvQmq6s4jRzoxk9EbJ6In0GiMc/edit?usp=sharing)
+
+After class:
+
+  - ?
+
 ## Day 15: Wednesday, March 18, 2026
 
 In class:
