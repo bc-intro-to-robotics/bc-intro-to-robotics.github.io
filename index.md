@@ -3,6 +3,15 @@
 
 ---
 
+## Day 17: Wednesday, March 25, 2026
+
+In class:
+
+  - Complete [L14: Wheel Encoders](https://docs.google.com/document/d/1qqHgok4N3YRgsdGm99fDsL61tFaGPrtyLAv8-gA3tEk/edit?usp=sharing)
+
+  After class:
+  - Complete and submit [A07: Safety](TBA)
+
 ## Day 16: Monday, March 23, 2026
 
 In class:
