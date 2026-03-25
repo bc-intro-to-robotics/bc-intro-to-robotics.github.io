@@ -7,10 +7,11 @@
 
 In class:
 
+  - Take quiz
   - Complete [L14: Wheel Encoders](https://docs.google.com/document/d/1qqHgok4N3YRgsdGm99fDsL61tFaGPrtyLAv8-gA3tEk/edit?usp=sharing)
 
   After class:
-  - Complete and submit [A07: Safety](TBA)
+  - Complete and submit [A07: Safety](https://docs.google.com/document/d/1i0qYT3FKFUiAvor68ayO2-JL0RrhMhur4YO_KoR6GR4/edit?tab=t.0)
 
 ## Day 16: Monday, March 23, 2026
 
