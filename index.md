@@ -3,6 +3,18 @@
 
 ---
 
+## Day 18: Monday, March 30, 2026
+
+
+In class:
+
+  - Discuss [A07: Safety](https://docs.google.com/document/d/1i0qYT3FKFUiAvor68ayO2-JL0RrhMhur4YO_KoR6GR4/edit?tab=t.0)
+  - Complete [L15: Shybot](https://docs.google.com/document/d/11YpGrfZuFBwemQ3Un4DqXBre9lukJqOZQK19jxjWAno/edit?tab=t.0)
+
+  After class:
+  - Complete [A08: Interfaces](https://docs.google.com/document/d/1c5j-ElvCMbG4lYmYZE60RBeHKrKLrIZPwbi-SGAeBTI/edit?usp=sharing)
+
+
 ## Day 17: Wednesday, March 25, 2026
 
 In class:
