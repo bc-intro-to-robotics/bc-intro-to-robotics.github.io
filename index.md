@@ -9,7 +9,7 @@ In class:
   - Complete [L16: Revisiting Past Labs](https://docs.google.com/document/d/12Wb2RTjLlfkMbUsFkGuc5k1S3rkTQLFVnFCRE2mj5lk/edit?usp=sharing)
 
   After class:
-  - Complete [A09: RCX and NXT Videos](https://docs.google.com/document/d/1ERNz10HJF7VhpOcFxyU4FdGbKSF_4K8R-fY6IB8hLcI/edit?usp=sharing)
+  - Complete [A09: Thinking about Outreach](https://docs.google.com/document/d/1ERNz10HJF7VhpOcFxyU4FdGbKSF_4K8R-fY6IB8hLcI/edit?usp=sharing)
 
 ## Day 18: Monday, March 30, 2026
 
