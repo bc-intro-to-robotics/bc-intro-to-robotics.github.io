@@ -3,6 +3,25 @@
 
 ---
 
+## Day 21: Monday, April 6, 2026
+
+In class:
+
+  - Watcch select videos
+  - Complete [L17: Planning for Outreach](https://docs.google.com/document/d/1EXZXaUwX4i18j7nUAZMu2R01P_VUpBoYkQh4EQrdDJU/edit?usp=sharing)
+
+  After class:
+  - Complete [A10: The Benefits of STEM Outreach](https://docs.google.com/document/d/1WaFJ01JIkyOiU1Sb1fj45oRKOE61S-k1cQByohAoZ-Q/edit?usp=sharing)
+
+## Day 20: Monday, April 6, 2026
+
+In class:
+
+  - Complete [L14: Wheel Encoders](https://docs.google.com/document/d/1qqHgok4N3YRgsdGm99fDsL61tFaGPrtyLAv8-gA3tEk/edit?usp=sharing)
+
+  After class:
+  - Read chapter 10 of the text in preparation for a reading quiz
+
 ## Day 19: Wednesday, April 1, 2026
 
 In class:
