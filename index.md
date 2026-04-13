@@ -3,6 +3,16 @@
 
 ---
 
+## Day 22: Monday, April 13, 2026
+
+In class:
+
+  - Reminder on robotics outreadh this Saturday at the [Madison County Public Library](https://maps.app.goo.gl/pDGXJzxTYNB9UcCs6).You need to arrive by 1:45 pm. See ad at [library site](https://www.madisonlibrary.org/event/lego-robotics-63136)
+
+After class:
+
+  - Complete [A11: How Robots Can Trick Us into Loving Them](https://docs.google.com/document/d/1q3zupfeA7SCdcj6ko282dwXE35qF2GoFK9__c4BCF84/edit?usp=sharing).
+
 ## Day 21: Monday, April 6, 2026
 
 In class:
