@@ -11,7 +11,7 @@ In class:
 
 After class:
 
-  - Complete [A11: How Robots Can Trick Us into Loving Them](https://docs.google.com/document/d/1q3zupfeA7SCdcj6ko282dwXE35qF2GoFK9__c4BCF84/edit?usp=sharing).
+  - Complete [A11: How Robots Can Trick Us into Loving Them](https://docs.google.com/document/d/1m2aNo5UfKEfKCVHeqMqZAD2TK6fgOmWvaVsWk2LjM2Y/edit?tab=t.0#heading=h.a2yu25qz9fr7).
 
 ## Day 21: Monday, April 6, 2026
 
