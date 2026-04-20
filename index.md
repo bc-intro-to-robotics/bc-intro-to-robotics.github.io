@@ -3,10 +3,37 @@
 
 ---
 
-## Day 22: Monday, April 13, 2026
+## Day 24: Monday, April 20, 2026
 
 In class:
 
+  - Debrief on robotics outreach
+  - Discuss timing of second exam
+  - Complete [L20: Library Outreach Debrief](https://docs.google.com/document/d/1JqCleHYAd50TZA60xIylb1Dtx4BVv8kdbIwcMDyfAho/edit?usp=sharing)
+  - Return robots to base build and reorganize parts box
+  - Review for exam
+
+After class:
+
+  - TBA
+
+## Day 23: Wednesday, April 15, 2026
+
+In class:
+
+  - Continue work on outreach planning and preparation
+
+After class:
+
+  - Reminder to attend class on Friday, April 17, 2026 in order to prepare for the robotics outreach event on Saturday, April 18, 2026. We will cancel one or more of the classes in the last week of class in exchange.
+  - Reminder on robotics outreadh this Saturday at the [Madison County Public Library](https://maps.app.goo.gl/pDGXJzxTYNB9UcCs6).You need to arrive by 1:45 pm. See ad at [library site](https://www.madisonlibrary.org/event/lego-robotics-63136)
+
+
+## Day 23: Wednesday, April 15, 2026
+
+In class:
+
+  - Complete [L18: More Planning for Outreach](https://docs.google.com/document/d/1HeVNPNCzMzu3BRy4xx6DpEeFEd_F7sQzJedTDllSTho/edit?usp=sharing)
   - Reminder on robotics outreadh this Saturday at the [Madison County Public Library](https://maps.app.goo.gl/pDGXJzxTYNB9UcCs6).You need to arrive by 1:45 pm. See ad at [library site](https://www.madisonlibrary.org/event/lego-robotics-63136)
 
 After class:

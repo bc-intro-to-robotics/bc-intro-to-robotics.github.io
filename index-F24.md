@@ -113,7 +113,6 @@ Before class:
 In class:
 
   - Watch selected videos
-  - Discuss second exam date - Thursday, November 21, 2024
   - Complete [L17: Planning for Outreach](https://docs.google.com/document/d/1EXZXaUwX4i18j7nUAZMu2R01P_VUpBoYkQh4EQrdDJU/edit?usp=sharing)
 
   After class:
