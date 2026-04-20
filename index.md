@@ -8,16 +8,17 @@
 In class:
 
   - Debrief on robotics outreach
-  - Discuss timing of second exam
+  - Discuss timing of second exam, which will be Wednesday, May 29
   - Complete [L20: Library Outreach Debrief](https://docs.google.com/document/d/1JqCleHYAd50TZA60xIylb1Dtx4BVv8kdbIwcMDyfAho/edit?usp=sharing)
   - Return robots to base build and reorganize parts box
-  - Review for exam
+  - Begin review for exam, which will be Wednesday, May 29. We will continue this review this Wednesday, May 22 in class
+  - Reminder: There is no class on Monday, May 27 as a payback for last Friday's class
 
 After class:
 
-  - Being studying for the upcomimg exam, which will take place in class on Wednesday, April 22, 2026. It will cover all material from the course since the first exam, including readings, labs, and assignments. Note that there will again be a paper part and a programming part. During the programming part, you will be allowed to use the code you have written, but you will not be allowed to use the internet or a browser.
+  - Being studying for the upcomimg exam, which will take place in class on Wednesday, April 29, 2026. It will cover all material from the course since the first exam, including readings, labs, and assignments. Note that there will again be a paper part and a programming part. During the programming part, you will be allowed to use the code you have written, but you will not be allowed to use the internet or a browser.
 
-## Day 23: Wednesday, April 15, 2026
+## Day 23: Friday, April 17, 2026
 
 In class:
 
