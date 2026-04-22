@@ -12,6 +12,7 @@ In class:
 
 After class:
 
+  - No class on Monday as a payback for the outreach.
   - Being studying for the upcomimg exam, which will take place in class on Wednesday, April 29, 2026. It will cover all material from the course since the first exam, including readings, labs, and assignments. Note that there will again be a paper part and a programming part. During the programming part, you will be allowed to use the code you have written, but you will not be allowed to use the internet or a browser.
 
 ## Day 24: Monday, April 20, 2026
