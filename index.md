@@ -3,6 +3,17 @@
 
 ---
 
+## Day 25: Wednesday, April 22, 2026
+
+In class:
+
+  - Review for exam
+  - Build a [group review sheet](https://docs.google.com/document/d/1-dciaO-raQW0WcLiba44QSUDLcSnpq2oOgCArnDBN60/edit?tab=t.0#heading=h.ux80567hnpsq)
+
+After class:
+
+  - Being studying for the upcomimg exam, which will take place in class on Wednesday, April 29, 2026. It will cover all material from the course since the first exam, including readings, labs, and assignments. Note that there will again be a paper part and a programming part. During the programming part, you will be allowed to use the code you have written, but you will not be allowed to use the internet or a browser.
+
 ## Day 24: Monday, April 20, 2026
 
 In class:
@@ -29,8 +40,18 @@ After class:
   - Reminder to attend class on Friday, April 17, 2026 in order to prepare for the robotics outreach event on Saturday, April 18, 2026. We will cancel one or more of the classes in the last week of class in exchange.
   - Reminder on robotics outreadh this Saturday at the [Madison County Public Library](https://maps.app.goo.gl/pDGXJzxTYNB9UcCs6).You need to arrive by 1:45 pm. See ad at [library site](https://www.madisonlibrary.org/event/lego-robotics-63136)
 
-
 ## Day 23: Wednesday, April 15, 2026
+
+In class:
+
+  - Complete [L18: More Planning for Outreach](https://docs.google.com/document/d/1HeVNPNCzMzu3BRy4xx6DpEeFEd_F7sQzJedTDllSTho/edit?usp=sharing)
+  - Reminder on robotics outreadh this Saturday at the [Madison County Public Library](https://maps.app.goo.gl/pDGXJzxTYNB9UcCs6).You need to arrive by 1:45 pm. See ad at [library site](https://www.madisonlibrary.org/event/lego-robotics-63136)
+
+After class:
+
+  - Complete [A11: How Robots Can Trick Us into Loving Them](https://docs.google.com/document/d/1m2aNo5UfKEfKCVHeqMqZAD2TK6fgOmWvaVsWk2LjM2Y/edit?tab=t.0#heading=h.a2yu25qz9fr7).
+
+## Day 22: Monday, April 13, 2026
 
 In class:
 
